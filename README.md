@@ -2,6 +2,10 @@
 
 A modern, full-stack expense management application built to explore the integration of **PERN Stack** (PostgreSQL, Express, React, Node.js) with **AWS Cloud Infrastructure**.
 
+<img width="1575" height="525" alt="Screenshot 2026-04-29 134212" src="https://github.com/user-attachments/assets/89740753-5766-46d6-8fe9-6dd2e026151b" />
+
+---
+
 ## 🚀 The Mission
 The goal of this project was to move beyond `localhost` and learn how to architect, deploy, and secure a web application in a professional cloud environment using **Amazon Web Services**.
 
