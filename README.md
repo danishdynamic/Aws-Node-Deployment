@@ -2,6 +2,10 @@
 
 A modern, full-stack expense management application built to explore the integration of **PERN Stack** (PostgreSQL, Express, React, Node.js) with **AWS Cloud Infrastructure**.
 
+<img width="1271" height="157" alt="image" src="https://github.com/user-attachments/assets/bac92546-3d60-42ac-9977-5a42abbd644f" />
+
+
+
 <img width="1575" height="525" alt="Screenshot 2026-04-29 134212" src="https://github.com/user-attachments/assets/89740753-5766-46d6-8fe9-6dd2e026151b" />
 
 ---
