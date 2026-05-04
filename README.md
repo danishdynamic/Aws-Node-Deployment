@@ -5,13 +5,12 @@ A modern, full-stack expense management application built to explore the integra
 <img width="1271" height="157" alt="image" src="https://github.com/user-attachments/assets/bac92546-3d60-42ac-9977-5a42abbd644f" />
 
 
-
-<img width="1575" height="525" alt="Screenshot 2026-04-29 134212" src="https://github.com/user-attachments/assets/89740753-5766-46d6-8fe9-6dd2e026151b" />
-
 ---
 
 ## 🚀 The Mission
 The goal of this project was to move beyond `localhost` and learn how to architect, deploy, and secure a web application in a professional cloud environment using **Amazon Web Services**.
+
+<img width="1575" height="525" alt="Screenshot 2026-04-29 134212" src="https://github.com/user-attachments/assets/89740753-5766-46d6-8fe9-6dd2e026151b" />
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js (Vite), Tailwind CSS, Axios
